@@ -16,7 +16,23 @@ ul{
     list-style: none;
     margin-right: 10px;
     
+    
 }
+
+
+
+
+
+.imgicon img{
+ width:8px;
+ height: 8px;
+}
+
+.imgphoto img{
+    width:15px;
+    height: 15px;
+    border-radius: 50%;
+   }
 
 
     
