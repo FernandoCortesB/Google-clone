@@ -1,0 +1,13 @@
+
+main{
+    padding-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logoimg img{
+    width:200px;
+    height: 100px;
+   }
+
